@@ -140,3 +140,11 @@ demo/**/*.tag.mdx
 demo/**/sidebar.js
 demo/**/versions.json
 
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
