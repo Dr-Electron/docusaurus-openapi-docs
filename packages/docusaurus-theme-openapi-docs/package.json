@@ -47,7 +47,7 @@
     "clsx": "^1.1.1",
     "copy-text-to-clipboard": "^3.1.0",
     "crypto-js": "^4.1.1",
-    "docusaurus-plugin-openapi-docs": "jlvandenhout/docusaurus-openapi-docs#head=fix/packing&workspace=docusaurus-plugin-openapi-docs",
+    "docusaurus-plugin-openapi-docs": "dr-electron/docusaurus-openapi-docs#head=tmp-fix-type&workspace=docusaurus-plugin-openapi-docs",
     "docusaurus-plugin-sass": "^0.2.3",
     "file-saver": "^2.0.5",
     "lodash": "^4.17.20",
